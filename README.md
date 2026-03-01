@@ -4,13 +4,11 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
 ```
 > whoami
-  Atik Mouhtasim Rahi  ·  helix-77  ·  Rajshahi, Bangladesh
+  Atik Mouhtasim Rahi
   Final-year CSE @ RUET  ·  Gen. Secretary, RUET Computing Society
   Building scalable apps · Exploring AI · 24/7 uptime
 ```
