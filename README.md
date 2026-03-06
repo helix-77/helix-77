@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-helix--portfolio.vercel.app-4072c7?style=for-the-badge&labelColor=0d1117)](https://helix-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-atikrahi.dev-4072c7?style=for-the-badge&labelColor=0d1117)](https://atikrahi.dev/)
 [![Resume](https://img.shields.io/badge/📄_Resume-FlowCV-c740b9?style=for-the-badge&labelColor=0d1117)](https://flowcv.com/resume/ske29udov5vv)
 
 </div>
